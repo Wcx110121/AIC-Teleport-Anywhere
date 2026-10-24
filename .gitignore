@@ -1,0 +1,14 @@
+# 编译产物
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# 打包与测试
+releases/
+verification/
+*.zip
+
+# 游戏文件（不随仓库分发）
+AliceInCradle_ver030/
